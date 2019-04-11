@@ -1,7 +1,5 @@
 # Docker相关文档
 
-2018.3.19 王博鑫
-
 
 # Winodws、MAC的docker配置文档
 
